@@ -134,7 +134,8 @@
 
 
           </fieldset>
-              <input type="submit">
+              <label for="verzenden"> </label>
+              <input type="submit" name="verzenden" id="verzenden">
         </form>
 
       </section>
